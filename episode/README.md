@@ -1,0 +1,1 @@
+This GraphQL query fetches details of characters (IDs 1–4) from the Rick and Morty API. It retrieves basic fields for such as episode, name, season. The query is ideal for server-side data fetching in Next.js using getServerSideProps, getStaticProps, or the App Router’s fetch API with a GraphQL endpoint.
